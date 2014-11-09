@@ -1,0 +1,11 @@
+{
+  "name": "what2seee",
+  "description": "Chrome App implementation of what2see",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
